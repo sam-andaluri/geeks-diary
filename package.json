@@ -70,7 +70,7 @@
         "path-is-inside": "^1.0.2",
         "remarkable": "^1.7.1",
         "remarkable-meta": "^1.0.1",
-        "rxjs": "6.2.2",
+        "rxjs": "6.6.7",
         "typeface-open-sans": "^0.0.54",
         "uuid": "^3.3.2",
         "zone.js": "^0.8.26"
