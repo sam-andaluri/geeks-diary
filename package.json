@@ -57,7 +57,7 @@
         "codemirror": "^5.40.2",
         "core-js": "^2.5.7",
         "date-fns": "^1.29.0",
-        "dexie": "^2.0.4",
+        "dexie": "^3.2.2",
         "file-url": "^2.0.2",
         "fs-extra": "^7.0.0",
         "get-md-title": "^1.0.4",
