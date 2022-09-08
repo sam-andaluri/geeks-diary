@@ -68,7 +68,7 @@
         "nodegit": "^0.22.2",
         "octicons": "^7.3.0",
         "path-is-inside": "^1.0.2",
-        "remarkable": "^1.7.1",
+        "remarkable": "^2.0.0",
         "remarkable-meta": "^1.0.1",
         "rxjs": "6.2.2",
         "typeface-open-sans": "^0.0.54",
