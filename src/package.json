@@ -16,7 +16,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "@sentry/electron": "0.14.0",
+        "@sentry/electron": "4.15.0",
         "nodegit": "0.22.2"
     }
 }
